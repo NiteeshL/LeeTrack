@@ -12,6 +12,8 @@ LeeTrack is a Chrome extension designed to help you track your daily DSA (Data S
 
 ## Installation
 
+Drag and drop the LeeTrack.crx file in extension page of chrome to install it directly without any hassle OR
+
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/NiteeshL/LeeTrack.git
