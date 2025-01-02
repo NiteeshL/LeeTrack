@@ -41,6 +41,7 @@ function handleDayClick(event) {
   selectedDay = target.dataset.day;
   questionsInput.value = '';
   modal.classList.add("show");
+  questionsInput.focus(); // Automatically focus on the text box
 }
 
 function handleSaveClick() {
