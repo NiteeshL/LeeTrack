@@ -1,4 +1,3 @@
-
 body {
   font-family: Google Sans Text", "Google Sans;
   margin: 0;
@@ -63,7 +62,7 @@ button {
   border: none;
   background: none;
   color: white;
-  font-size: 2em; /* Adjusted size */
+  font-size: 2em; 
   transition: color 0.3s, transform 0.3s;
 }
 
@@ -112,24 +111,24 @@ button:hover {
   justify-content: center;
   align-items: center;
   opacity: 0;
-  transition: opacity 0.5s ease; /* Add transition effect */
+  transition: opacity 0.5s ease; 
 }
 
 .modal.show {
   display: flex;
   opacity: 1;
-  transition-delay: 0.5s; /* Add delay */
+  transition-delay: 0.5s; 
 }
 
 .modal-content {
-  background-color: #222222; /* Dark grey-black color */
+  background-color: #222222; 
   margin: auto;
   padding: 20px;
   width: 80%;
   max-width: 300px;
-  border-radius: 25px; /* Smoother borders */
+  border-radius: 25px; 
   text-align: center;
-  color: white; /* Ensure text is white */
+  color: white; 
 }
 
 .close-button {
@@ -153,15 +152,16 @@ button:hover {
   border-radius: 10px;
   color: white;
   border: 1px solid #5b5b5b64;
-  width: 80%; /* Decreased width */
+  width: 80%; 
   height: fit-content;
-  appearance: textfield; /* Remove increase/decrease buttons */
-  -moz-appearance: textfield; /* Remove increase/decrease buttons */
+  appearance: textfield; 
+  -moz-appearance: textfield; 
+  outline: none;
 }
 
 #questions-input::-webkit-outer-spin-button,
 #questions-input::-webkit-inner-spin-button {
-  -webkit-appearance: none; /* Remove increase/decrease buttons */
+  -webkit-appearance: none;
   margin: 0;
 }
 
@@ -178,7 +178,7 @@ button:hover {
   color: rgb(0, 0, 0);
   transition: background-color 0.3s, transform 0.3s;
   margin-top: 15px;
-  font-size: 1.2em; /* Decreased size */
+  font-size: 1.2em; 
 }
 
 #save-button:hover {
