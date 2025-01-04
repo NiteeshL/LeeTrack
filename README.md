@@ -6,6 +6,8 @@ LeeTrack is a Chrome extension designed to help you track your daily DSA (Data S
 
 ![Project Preview](https://github.com/NiteeshL/LeeTrack/blob/main/icons/Screenshot%202025-01-05%20000516.png)
 
+![Project Preview](https://github.com/NiteeshL/LeeTrack/blob/main/icons/Screenshot%20(8).png)
+
 ## Features
 
 - **Miniature Calendar**: View the entire month in a compact, square-shaped calendar.
