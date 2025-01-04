@@ -2,6 +2,10 @@
 
 LeeTrack is a Chrome extension designed to help you track your daily DSA (Data Structures and Algorithms) progress. Log the number of questions solved each day and visualize your progress over the month with a sleek and interactive calendar.
 
+![Project Preview](https://github.com/NiteeshL/LeeTrack/blob/main/icons/Screenshot%202025-01-05%20000103.png)
+
+![Project Preview](https://github.com/NiteeshL/LeeTrack/blob/main/icons/Screenshot%202025-01-05%20000516.png)
+
 ## Features
 
 - **Miniature Calendar**: View the entire month in a compact, square-shaped calendar.
