@@ -1,3 +1,4 @@
+![LeeTrack](https://socialify.git.ci/NiteeshL/LeeTrack/image?custom_description=LeeTrack+is+a+Chrome+extension+designed+to+help+me+track+my+daily+DSA+%28Data+Structures+and+Algorithms%29+progress.&description=1&language=1&name=1&owner=1&theme=Light)
 # LeeTrack
 
 LeeTrack is a Chrome extension designed to help you track your daily DSA (Data Structures and Algorithms) progress. Log the number of questions solved each day and visualize your progress over the month with a sleek and interactive calendar.
