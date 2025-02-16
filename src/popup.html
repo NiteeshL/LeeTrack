@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/popup.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> <!-- Include Material Icons -->
+  <title>Google Calendar Extension</title>
+</head>
+<body>
+  <div id="header">
+    <button id="prev-button" class="material-icons">chevron_left</button>
+    <div>
+      <span id="month-year"></span>
+      <div id="month-total">Total this month: 0</div>
+    </div>
+    <button id="next-button" class="material-icons">chevron_right</button>
+  </div>
+  <div id="calendar-container"></div>
+  <div id="total-marked">Total done: 0</div>
+  <div id="timer"></div>
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <h2>Enter questions solved</h2>
+      <input type="number" id="questions-input" placeholder="Type here">
+      <button id="save-button">Submit</button> <!-- Ensure the text is "Submit" -->
+    </div>
+  </div>
+  <script src="scripts/popup.js"></script>
+</body>
+</html>
